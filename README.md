@@ -1,6 +1,6 @@
 # is-odd
 
-## Installation & Usage
+## Installation
 
 Install using `deno add`:
 
@@ -8,7 +8,7 @@ Install using `deno add`:
 deno add jsr:@nemmtor/is-odd
 ```
 
-Example usage :
+## Usage:
 
 ```ts
 import { isOdd } from '@nemmtor/is-odd';
