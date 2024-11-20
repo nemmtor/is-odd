@@ -1,6 +1,6 @@
 {
   "name": "@nemmtor/is-odd",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "exports": "./src/mod.ts",
   "tasks": {
@@ -11,9 +11,7 @@
   },
   "lint": {
     "rules": {
-      "tags": [
-        "recommended"
-      ],
+      "tags": ["recommended"],
       "include": [
         "verbatim-module-syntax",
         "triple-slash-reference",
